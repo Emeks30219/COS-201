@@ -22,6 +22,6 @@ public class FibonacciGenerator {
     }
 
     public static void main(String[] args) {
-        generateFibonacci(10);
+        generateFibonacci(100);
     }
 }
